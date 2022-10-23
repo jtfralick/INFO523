@@ -6,6 +6,8 @@
 
 # Values in column names 
 
+#This annotation was made as a requirement for INFO 523 HW2
+
 raw <- read.csv("data/pew.csv", check.names = F)
 
 head(raw)
